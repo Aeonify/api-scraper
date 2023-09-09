@@ -1,6 +1,6 @@
 # Description
 
-- A simple <a href="waifu.pics">waifu.pics</a> api scraper to collect the pictures url as a json file.
+- A simple <a href="https://waifu.pics/">waifu.pics</a> api scraper to collect the pictures url as a json file.
 
 
 - Installation
